@@ -1,0 +1,11 @@
+{
+  "org": "scikit-hep",
+  "repo": "cabinetry",
+  "versions": [
+    {
+      "commit": "0252deed24451e835570619d67e60a674034d9d5",
+      "tag": "",
+      "parsed_at": "2026-10-15T20:18:40.795136+00:00"
+    }
+  ]
+}
