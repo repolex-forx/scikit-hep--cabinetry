@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scikit-hep/cabinetry/commit/0252deed24451e835570619d67e60a674034d9d5",
       "git:hexsha": "0252deed24451e835570619d67e60a674034d9d5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scikit-hep/cabinetry/commit/3f0049b574a4e8e57a5752f0ec890a681114e239",
